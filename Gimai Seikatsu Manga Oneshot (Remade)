@@ -1,11 +1,11 @@
 {
   "title": "Gimai Seikatsu",
-  "description": "Memes",
+  "description": "",
   "artist": "Kanade, Yumika",
   "author": "Mikawa, Ghost",
   "cover": "https://imgur.com/sB47xKQ.jpg",
   "chapters": {
-    "1": {
+    "0": {
       "title": "Oneshot",
       "volume": "0",
       "groups": {
